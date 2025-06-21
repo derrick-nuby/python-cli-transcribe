@@ -15,7 +15,7 @@ This project is based on the work from [Linguflex](https://github.com/KoljaB/Lin
 
 ## Demonstration
 
-![Transcription Demo](video.mp4)
+https://github.com/user-attachments/assets/b5e7e7f0-a887-4203-8328-9aac78ce09b1
 
 ## Prerequisites
 
